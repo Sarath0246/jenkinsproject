@@ -1,0 +1,14 @@
+/var/www/html/dotnetproject/bin/Debug/net8.0/dotnetproject
+/var/www/html/dotnetproject/bin/Debug/net8.0/dotnetproject.deps.json
+/var/www/html/dotnetproject/bin/Debug/net8.0/dotnetproject.runtimeconfig.json
+/var/www/html/dotnetproject/bin/Debug/net8.0/dotnetproject.dll
+/var/www/html/dotnetproject/bin/Debug/net8.0/dotnetproject.pdb
+/var/www/html/dotnetproject/obj/Debug/net8.0/dotnetproject.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/html/dotnetproject/obj/Debug/net8.0/dotnetproject.AssemblyInfoInputs.cache
+/var/www/html/dotnetproject/obj/Debug/net8.0/dotnetproject.AssemblyInfo.cs
+/var/www/html/dotnetproject/obj/Debug/net8.0/dotnetproject.csproj.CoreCompileInputs.cache
+/var/www/html/dotnetproject/obj/Debug/net8.0/dotnetproject.dll
+/var/www/html/dotnetproject/obj/Debug/net8.0/refint/dotnetproject.dll
+/var/www/html/dotnetproject/obj/Debug/net8.0/dotnetproject.pdb
+/var/www/html/dotnetproject/obj/Debug/net8.0/dotnetproject.genruntimeconfig.cache
+/var/www/html/dotnetproject/obj/Debug/net8.0/ref/dotnetproject.dll

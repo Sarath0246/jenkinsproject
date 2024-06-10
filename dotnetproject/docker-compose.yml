@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  myappweb:
+    build:
+      context: .
+      dockerfile: dockerfile
+    ports:
+      - "5000:5000"
+
+  myappweb1:
+    build:
+      context: .
+      dockerfile: dockerfile
+    ports:
+      - "6000:6000"
